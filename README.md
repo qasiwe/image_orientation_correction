@@ -11,3 +11,6 @@ In order to run this code, use:
 
 `python main.py path_to_your_image`
 
+The resulting image will be in the same folder as the code, or you can specify an optional argument output_path to save it in a specific folder.
+
+`python main.py path_to_your_image output_path` 
